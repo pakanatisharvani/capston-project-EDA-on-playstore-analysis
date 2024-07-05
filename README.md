@@ -1,1 +1,1 @@
-# capston-project-EDA-on-playstore-analysis
+# capstone-project-EDA-on-playstore-analysis
