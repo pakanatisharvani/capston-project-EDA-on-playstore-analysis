@@ -12,6 +12,6 @@ The data cleaning process becomes even more important when faced with the startl
 
 The Exploratory Data Analysis (EDA) phase reveals key insights that go beyond conventional statistical analysis. Visual representations, such as histograms, pie charts, bar charts, and reg plots, help to comprehend user moods, app ratings, genre preferences, and the long-term impact of upgrades.This deeper exploration forms the bedrock for strategic decision-making in app development and optimization.
 
- # Distribution of Sentiment Polarity:
+ **Distribution of Sentiment Polarity: **
 
 The histogram shows a clear peak towards the positive side, indicating most apps have predominantly positive sentiment amongst users. This suggests most apps are well-received and appreciated by users.
