@@ -22,9 +22,14 @@ The histogram shows a clear peak towards the positive side, indicating most apps
 
 The histogram shows that majority of users are satisfied with the apps, as evidenced by the high concentration of positive ratings.
 
+![image](https://github.com/pakanatisharvani/capston-project-EDA-on-playstore-analysis/assets/153704158/e87f3bc7-1dd7-4586-9910-a9689c9fb2c6)
+
+
 **Distribution of App Types:**
 
 The larger slice of the pie chart represents the free apps, with 92.3% of the total. The smaller slice representing paid apps, with 7.7% of the total. This indicates that the vast majority of apps on the Google Play Store are free to download and use.
+
+![image](https://github.com/pakanatisharvani/capston-project-EDA-on-playstore-analysis/assets/153704158/352bcf6d-bd46-4361-8c7b-7815aa2733f1)
 
 **Top 10 Genres by Installs:**
 
@@ -38,6 +43,8 @@ The larger slice of the pie chart represents the free apps, with 92.3% of the to
 
 **Communication** apps are the fifth most popular genre. Communication apps include messaging apps and video conferencing apps.
 
+![image](https://github.com/pakanatisharvani/capston-project-EDA-on-playstore-analysis/assets/153704158/baf0490b-9b10-4087-b91b-ae8d4a9b7f3b)
+
 **Content Ratings by Installs:**
 
 The categories **Everyone and Teen** stand out with the highest number of installs, indicating preferences for apps suitable for all ages or users aged 13 and above. These categories encompass apps with minimal or mild content, including educational, entertainment, or social apps.
@@ -48,10 +55,14 @@ The **Mature 17+** and **Adults only 18+** categories exhibit significantly fewe
 
 The **Unrated** category records the fewest installs, suggesting minimal interest in apps lacking official ratings. These apps may have unknown or variable content, potentially unsuitable for some users.
 
+![image](https://github.com/pakanatisharvani/capston-project-EDA-on-playstore-analysis/assets/153704158/3c6e1246-2163-446d-bb3d-6a0ebbfd2fd3)
+
 **Size Groups by Installs:**
 
 The size group with the most installs is the below 20 group, followed by the 20-40 group, followed by the 40-60 group, then the 60-80 group, and finally the 80-100 group.
 The size group with the least installs is the 80-100 group, which has less than a quarter of the installs of the below 20 group. This suggests that the users prefer smaller apps over larger apps. This could indicate that the users have limited storage space on their devices, or that they are more selective about the apps they download and install.
+
+![image](https://github.com/pakanatisharvani/capston-project-EDA-on-playstore-analysis/assets/153704158/f36dc5bf-bd83-4a08-9395-126396b6c32d)
 
 **Distribution of Ratings by Update Year:**
 
@@ -60,6 +71,8 @@ The average rating has shown an improvement, rising from approximately 3.5 in 20
 The red line shows that the overall trend is towards increasing ratings. This is a positive sign for the product.
 
 The slope of the red line is positive, which indicates that the relationship between rating and update year is positive. This means that ratings tend to increase as the update year increases.
+
+![image](https://github.com/pakanatisharvani/capston-project-EDA-on-playstore-analysis/assets/153704158/96d6f3fe-f673-41c7-ba12-4c7ce4f8a28d)
 
 **Top 10 Categories by Average Revenue:**
 
@@ -71,15 +84,21 @@ Contrastingly, the **Sports** category records the lowest average revenue, imply
 
 The **Personalization** category secures the fourth-lowest average revenue, suggesting a relatively lower level of user interest. Lastly, the **Medical** category ranks third lowest in average revenue, indicating potential challenges in terms of convenience or security for apps within this category.
 
+![image](https://github.com/pakanatisharvani/capston-project-EDA-on-playstore-analysis/assets/153704158/a95f22b7-52b3-4c58-807b-975f3966ffb0)
+
 **Revenue and Android Version of the Top 8 Paid Apps:**
 
 The apps with Android versions 4.0 and above dominate the higher revenue ranks, suggesting a correlation between app compatibility with newer Android versions and revenue generation.
 
 Among the top 8 high revenue apps, six are designed for Android versions 4.0 and above. The exceptions are "Grand Theft Auto: San Andreas" (Android 3.0 and up) and "DraStic DS Emulator" (Android 2.3 and up), both of which are on the lower end of the revenue spectrum.
 
+![image](https://github.com/pakanatisharvani/capston-project-EDA-on-playstore-analysis/assets/153704158/72756293-141d-4b94-ac39-0744a4cdf6bb)
+
 **Sentiment counts across categories:**
 
 The stacked bar chart reveals a complex interplay of positive and negative sentiments across different categories. While people express positive sentiments towards categories like games, family, health and fitness, travel and local, and dating, there is also a notable presence of negative sentiment associated with most of these same categories.
+
+![image](https://github.com/pakanatisharvani/capston-project-EDA-on-playstore-analysis/assets/153704158/569fc918-ff63-4fd3-857a-0e1c6804b036)
 
 **Update counts and the distribution of sentiment counts over time:**
 
@@ -89,6 +108,8 @@ The number of updates is increasing over time. This suggests that the developers
 
 The number of negative sentiments is relatively stable. This suggests that people are generally not very unhappy with the updates they are receiving.
 
+![image](https://github.com/pakanatisharvani/capston-project-EDA-on-playstore-analysis/assets/153704158/ad3d31da-b937-4303-8ddc-74e2149970b4)
+
 **Sentiment Polarity by Rating and Installs:**
 
 **Apps with higher ratings tend to have higher average sentiment polarity:** This correlation is logical, as users are more inclined to leave positive reviews for apps they enjoy using.
@@ -97,9 +118,13 @@ The number of negative sentiments is relatively stable. This suggests that peopl
 
 **Popularity vs. Sentiment Polarity Discrepancy:** The large bubbles representing the most installed apps generally show lower average sentiment polarity. This implies that widespread popularity doesn't consistently align with positive user sentiment.
 
+![image](https://github.com/pakanatisharvani/capston-project-EDA-on-playstore-analysis/assets/153704158/20f4be27-786a-4e9a-a9fc-5e97bb359fab)
+
 **Relationship between Sentiment Subjectivity and Sentiment Polarity:**
 
 The scatter plot of Sentiment Polarity and Sentiment Subjectivity shows a moderate positive correlation between the two variables. This means that, in general, as sentiment polarity increases, sentiment subjectivity tends to increase as well. However, the relationship is not very strong. This suggests that there is a tendency for people to express their opinions more strongly when they are feeling positive than when they are feeling negative.
+
+![image](https://github.com/pakanatisharvani/capston-project-EDA-on-playstore-analysis/assets/153704158/c9771fa7-205c-4535-b332-3fe39ffd5d29)
 
 **Correlation among Rating, Reviews, Installs, Price, Sentiment_Polarity, and Sentiment_Subjectivity:**
 
@@ -111,6 +136,10 @@ Installs has a weak negative correlation with Price. This means that apps with m
 
 Sentiment_Polarity has a moderate positive correlation with Sentiment_Subjectivity. This means that apps with more positive sentiment in their reviews tend to have slightly more subjective reviews.
 
+![image](https://github.com/pakanatisharvani/capston-project-EDA-on-playstore-analysis/assets/153704158/d961fe81-230c-4df0-8422-2873f483e847)
+
+Pair Plot - Rating, Installs, Reviews, Price:
+
 **Rating and Installs:** There is a positive correlation between rating and installs, meaning that apps with higher ratings tend to have more installs. This is likely because users are more likely to install apps that have been positively reviewed by other users.
 
 **Rating and Reviews:** There is also a positive correlation between rating and reviews, meaning that apps with higher ratings tend to have more reviews. This is likely because users are more likely to write reviews for apps that they enjoy using.
@@ -120,6 +149,8 @@ Sentiment_Polarity has a moderate positive correlation with Sentiment_Subjectivi
 **Installs and Reviews:** There is a strong positive correlation between installs and reviews, meaning that apps with more installs tend to have more reviews. This is likely because users are more likely to write reviews for apps that they have used extensively.
 
 **Installs and Price:** There is a weak negative correlation between installs and price, meaning that apps with more installs tend to be slightly cheaper. This is likely because developers of popular apps are able to charge lower prices due to the high volume of installs.
+
+![image](https://github.com/pakanatisharvani/capston-project-EDA-on-playstore-analysis/assets/153704158/5f039fff-239d-474d-aae6-a75346e25780)
 
 **Actionable Recommendations:**
 
