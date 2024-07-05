@@ -16,6 +16,8 @@ The Exploratory Data Analysis (EDA) phase reveals key insights that go beyond co
 
 The histogram shows a clear peak towards the positive side, indicating most apps have predominantly positive sentiment amongst users. This suggests most apps are well-received and appreciated by users.
 
+![image](https://github.com/pakanatisharvani/capston-project-EDA-on-playstore-analysis/assets/153704158/a4a7735f-7e51-4da1-a15b-09811bb85363)
+
 **Distribution of App Ratings:**
 
 The histogram shows that majority of users are satisfied with the apps, as evidenced by the high concentration of positive ratings.
